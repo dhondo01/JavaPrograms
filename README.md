@@ -1,2 +1,1 @@
-# JavaPrograms
-Repo for Java Programs
+# Learn java
